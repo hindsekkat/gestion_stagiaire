@@ -57,6 +57,8 @@ public class Assistante_DA extends javax.swing.JFrame {
     private String Statut;
     private String Justif;
     
+    private String var;
+    
     
     private int i; //indice de deplacement
     
